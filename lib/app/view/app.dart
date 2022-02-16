@@ -3,7 +3,6 @@ import 'package:flow_builder/flow_builder.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:pimp_my_qr/app/app.dart';
-import 'package:pimp_my_qr/app/bloc/app_bloc.dart';
 import 'package:pimp_my_qr/theme.dart';
 
 

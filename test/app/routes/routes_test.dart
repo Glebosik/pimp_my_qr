@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:pimp_my_qr/app/app.dart';
-import 'package:pimp_my_qr/app/routes/routes.dart';
 import 'package:pimp_my_qr/authentication/login/login.dart';
 import 'package:pimp_my_qr/home/home.dart';
 
